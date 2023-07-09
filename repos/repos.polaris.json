@@ -1,10 +1,10 @@
 {
   "kernelSource": {
     "name": "KernelSU_polaris",
-    "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dipper-q-oss",
-    "branch": "dipper-q-oss",
+    "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845",
+    "branch": "lineage-20",
     "device": "polaris",
-    "defconfig": "polaris_defconfig"
+    "defconfig": "vendor/xiaomi/mi845_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
